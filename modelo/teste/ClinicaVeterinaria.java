@@ -1,3 +1,9 @@
+package modelo.teste;
+import modelo.Animal;
+import modelo.Consulta;
+import modelo.Tutor;
+import modelo.Veterinario;
+
 public class ClinicaVeterinaria {
 
     public static void main(String[] args) {

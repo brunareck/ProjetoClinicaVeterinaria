@@ -1,3 +1,4 @@
+package modelo;
 public class Veterinario extends Pessoa {
 
     private String crvm;
