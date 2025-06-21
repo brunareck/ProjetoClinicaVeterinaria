@@ -1,4 +1,4 @@
-package modelo.teste;
+package teste;
 import modelo.Animal;
 import modelo.Consulta;
 import modelo.Tutor;
